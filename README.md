@@ -10,9 +10,6 @@ This solution is designed to support:
 - 🔬 Scientific and academic research  
 - 🌊 Ecological and environmental analysis  
 
-### Model Process Flow
-![Input Image](images/Model_Process.png)
-
 ---
 
 ## 🎯 Objectives
